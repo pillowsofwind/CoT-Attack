@@ -13,7 +13,10 @@ This is the repo of script for the ACL 2024 Findings paper: [Preemptive Answer" 
 
 ## Usage
 
-Step I. set up conda experiments using `pip intall -r requirements.txt` and your OpenAI API key in `utils.py`.
-Step II. run Pretest and Attack in `run.py`.
-Step III. run Pretest and Attack in `run.py` for self-consistency (SC) experiments.
-Step IV. run mitigation experiments in `mitigation.py`
+- Step I. set up conda experiments using `pip intall -r requirements.txt` and your OpenAI API key in `utils.py`.
+
+- Step II. run Pretest and Attack in `run.py`.
+
+- Step III. run Pretest and Attack in `run.py` for self-consistency (SC) experiments.
+
+- Step IV. run mitigation experiments in `mitigation.py`
